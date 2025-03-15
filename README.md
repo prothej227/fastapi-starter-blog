@@ -7,7 +7,7 @@ A simple **CRUD Blog App** built with **FastAPI**, designed for beginners to lea
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-repo/fastapi-crud-blog.git
+   git clone https://github.com/your-repo/fastapi-crud-blog.git](https://github.com/prothej227/fastapi-starter-blog.git)
    cd fastapi-crud-blog
    ```
 
