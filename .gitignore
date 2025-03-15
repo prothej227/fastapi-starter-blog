@@ -1,0 +1,59 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.env/
+*.env
+*.venv
+Pipfile
+Pipfile.lock
+
+# Logs
+logs/
+*.log
+*.out
+*.err
+nohup.out
+
+# Database Files
+*.sqlite3
+*.db
+*.sqlite
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Testing & Coverage
+htmlcov/
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+.jupyter/
+.ipynb_checkpoints/
+
+# FastAPI Specific
+instance/
+*.pem
+*.key
+*.cert
+
+# Docker & Deployment
+docker-compose.override.yml
+*.dockerfile
+*.dockerenv
+
+# Migrations (if using Alembic)
+migrations/versions/*.pyc
+migrations/versions/*.py~
+
+# Build and Distribution
+dist/
+build/
+*.egg-info/
