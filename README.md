@@ -36,11 +36,3 @@ A simple **CRUD Blog App** built with **FastAPI**, designed for beginners to lea
    - Redoc: [http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc)
 
 ---
-
-## **Contributing**
-
-Feel free to submit pull requests or open issues to improve this project.
-
-## **License**
-
-This project is licensed under the MIT License.
